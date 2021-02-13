@@ -5,5 +5,10 @@ public class firstBranchClass {
 
         System.out.println("new comment from master");
         System.out.println("hey there can you check this out please");
+
+
+        System.out.println("from master blaster");
+
+        //work branch first message
     }
 }
